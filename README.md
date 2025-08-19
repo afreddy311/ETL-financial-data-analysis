@@ -58,12 +58,12 @@ Ejemplo de salida:
 
 ## 📊 Visualizaciones
 
-### 1. Gastos mensuales por categoría
+### 1.Gastos mensuales por categoría
 ![Gastos mensuales por categoría](output/gastos_mensuales_por_categoria.png)
 
 ---
 
-### 2. Distribución de gastos en junio 2024
+### 2.Distribución de gastos en junio 2024
 ![Distribución de gastos en junio 2024](output/distribucion_gastos_2024-06.png)
 
 ---
